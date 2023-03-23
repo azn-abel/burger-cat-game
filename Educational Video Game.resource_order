@@ -1,5 +1,7 @@
 {
   "FolderOrderSettings": [
+    {"name":"Animation Curves","order":17,"path":"folders/Animation Curves.yy",},
+    {"name":"Extensions","order":18,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
@@ -18,10 +20,12 @@
     {"name":"Pause Menu","order":2,"path":"folders/Objects/UI/Buttons/Pause Menu.yy",},
     {"name":"Touch Controls","order":3,"path":"folders/Objects/UI/Buttons/Touch Controls.yy",},
     {"name":"VFX","order":5,"path":"folders/Objects/VFX.yy",},
+    {"name":"Paths","order":14,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Levels","order":3,"path":"folders/Rooms/Levels.yy",},
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
     {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
+    {"name":"Shaders","order":15,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Music","order":1,"path":"folders/Sounds/Music.yy",},
     {"name":"SFX","order":2,"path":"folders/Sounds/SFX.yy",},
@@ -50,11 +54,7 @@
     {"name":"Touch Controls","order":7,"path":"folders/Sprites/UI/Touch Controls.yy",},
     {"name":"VFX","order":11,"path":"folders/Sprites/VFX.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
-    {"name":"Paths","order":14,"path":"folders/Paths.yy",},
-    {"name":"Shaders","order":15,"path":"folders/Shaders.yy",},
     {"name":"Timelines","order":16,"path":"folders/Timelines.yy",},
-    {"name":"Animation Curves","order":17,"path":"folders/Animation Curves.yy",},
-    {"name":"Extensions","order":18,"path":"folders/Extensions.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_touch_button_right","order":1,"path":"objects/obj_touch_button_right/obj_touch_button_right.yy",},

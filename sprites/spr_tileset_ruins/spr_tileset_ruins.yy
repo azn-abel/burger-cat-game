@@ -1,26 +1,26 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_tileset_cave",
-  "bbox_bottom": 383,
-  "bbox_left": 0,
-  "bbox_right": 255,
-  "bbox_top": 147,
-  "bboxMode": 0,
+  "name": "spr_tileset_ruins",
+  "bbox_bottom": 1919,
+  "bbox_left": 128,
+  "bbox_right": 4095,
+  "bbox_top": 0,
+  "bboxMode": 2,
   "collisionKind": 1,
   "collisionTolerance": 0,
   "DynamicTexturePage": false,
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bf2cb532-270f-4eb6-afe0-851e420ff3cd",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"acfdfbbc-365a-4ce0-a9bc-d95616e0cdfa",},
   ],
-  "gridX": 128,
-  "gridY": 128,
-  "height": 384,
+  "gridX": 0,
+  "gridY": 0,
+  "height": 2048,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"54075576-b1f0-40e7-ba83-d4e985a94d21","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a94ae5a9-a4de-4878-b384-f2035abf1c6d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": {
     "resourceType": "GMNineSliceData",
@@ -55,7 +55,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_tileset_cave",
+    "name": "spr_tileset_ruins",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -77,7 +77,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bf2cb532-270f-4eb6-afe0-851e420ff3cd","path":"sprites/spr_tileset_cave/spr_tileset_cave.yy",},},},"Disabled":false,"id":"d643ff1a-9a88-49be-81e1-1d63a72e832f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"acfdfbbc-365a-4ce0-a9bc-d95616e0cdfa","path":"sprites/spr_tileset_ruins/spr_tileset_ruins.yy",},},},"Disabled":false,"id":"d5f36dd6-f994-4e70-b677-6f0c6dbe1736","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -93,5 +93,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 256,
+  "width": 4096,
 }

@@ -58,6 +58,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_touch_button_right","order":1,"path":"objects/obj_touch_button_right/obj_touch_button_right.yy",},
+    {"name":"ts_world_red","order":4,"path":"tilesets/ts_world_red/ts_world_red.yy",},
     {"name":"obj_effect_jump","order":5,"path":"objects/obj_effect_jump/obj_effect_jump.yy",},
     {"name":"spr_cloud_small","order":4,"path":"sprites/spr_cloud_small/spr_cloud_small.yy",},
     {"name":"spr_touch_jump","order":2,"path":"sprites/spr_touch_jump/spr_touch_jump.yy",},
@@ -118,6 +119,7 @@
     {"name":"spr_message_frame","order":6,"path":"sprites/spr_message_frame/spr_message_frame.yy",},
     {"name":"snd_life_lost_01","order":9,"path":"sounds/snd_life_lost_01/snd_life_lost_01.yy",},
     {"name":"seq_main_menu","order":2,"path":"sequences/seq_main_menu/seq_main_menu.yy",},
+    {"name":"spr_tileset_world_red","order":4,"path":"sprites/spr_tileset_world_red/spr_tileset_world_red.yy",},
     {"name":"spr_hanging_2","order":1,"path":"sprites/spr_hanging_2/spr_hanging_2.yy",},
     {"name":"obj_bridge","order":7,"path":"objects/obj_bridge/obj_bridge.yy",},
     {"name":"spr_ground_side_leaves_left","order":2,"path":"sprites/spr_ground_side_leaves_left/spr_ground_side_leaves_left.yy",},

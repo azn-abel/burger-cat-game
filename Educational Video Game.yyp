@@ -76,6 +76,7 @@
   },
   "resources": [
     {"id":{"name":"obj_touch_button_right","path":"objects/obj_touch_button_right/obj_touch_button_right.yy",},},
+    {"id":{"name":"ts_world_red","path":"tilesets/ts_world_red/ts_world_red.yy",},},
     {"id":{"name":"spr_hurt_zone","path":"sprites/spr_hurt_zone/spr_hurt_zone.yy",},},
     {"id":{"name":"obj_effect_jump","path":"objects/obj_effect_jump/obj_effect_jump.yy",},},
     {"id":{"name":"spr_front_tree_3","path":"sprites/spr_front_tree_3/spr_front_tree_3.yy",},},
@@ -151,6 +152,7 @@
     {"id":{"name":"spr_message_frame","path":"sprites/spr_message_frame/spr_message_frame.yy",},},
     {"id":{"name":"snd_life_lost_01","path":"sounds/snd_life_lost_01/snd_life_lost_01.yy",},},
     {"id":{"name":"seq_main_menu","path":"sequences/seq_main_menu/seq_main_menu.yy",},},
+    {"id":{"name":"spr_tileset_world_red","path":"sprites/spr_tileset_world_red/spr_tileset_world_red.yy",},},
     {"id":{"name":"spr_hanging_2","path":"sprites/spr_hanging_2/spr_hanging_2.yy",},},
     {"id":{"name":"obj_bridge","path":"objects/obj_bridge/obj_bridge.yy",},},
     {"id":{"name":"spr_ground_side_leaves_left","path":"sprites/spr_ground_side_leaves_left/spr_ground_side_leaves_left.yy",},},

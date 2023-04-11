@@ -1,6 +1,6 @@
 # Jimmy's Quest for Condiments
 
-Design and dialogue by Jacob Welker. Audio Assets carefully selected by Kaitlyn Rosenberg. Visual Assets hand-drawn by Erin Deyton. Game development by Abel Lu.
+Design and dialogue by Jacob Welker. Audio assets carefully selected by Kaitlyn Rosenberg. Visual assets hand-drawn by Erin Deyton. Game development by Abel Lu.
 
 An educational platformer computer game designed for children 6-12 years old.
 The game features a burger-shaped cat named Jimmy McFurrson as its protagonist, and allows users to

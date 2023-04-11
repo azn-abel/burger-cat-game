@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "snd_portal_01.wav",
   "type": 0,
-  "volume": 0.41,
+  "volume": 0.0,
 }

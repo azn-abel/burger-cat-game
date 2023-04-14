@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_ketchuptrees",
-  "bbox_bottom": 1819,
+  "bbox_bottom": 1949,
   "bbox_left": 0,
   "bbox_right": 2889,
   "bbox_top": 0,
@@ -17,7 +17,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1820,
+  "height": 1950,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"bbafd597-893a-40e5-95da-9971603f3669","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
